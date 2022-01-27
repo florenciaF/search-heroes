@@ -1,10 +1,10 @@
 # search-heroes
 Buscador de heoroes
 
-Contenido
+### Contenido 📋
 
 -SPA (Single Page Application) -Routers -Query Params -Filtros aplicando Query strings
 
-Instalación
+### Instalación 🔧
 
 npm install para reconstruir los módulos de Node.
